@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm a data enthusiast who enjoys working with data to extract insights, create visualisations, and support decision-making processes. I'm also passionate about music, Sport, and creativity.
+I'm a data enthusiast who enjoys working with data to extract insights, create visualisations, and support decision-making processes. I'm also passionate about music, Sport, and Perfumes.
 
 <details>
 <summary>🛠 Tools I Use in Data Work</summary>
@@ -35,6 +35,21 @@ I'm a data enthusiast who enjoys working with data to extract insights, create v
 |     6| DJ               |
 
 </details>
+
+<details>
+<summary>🧴 My Favorite Perfumes</summary>
+
+| Rank | Perfume                                | Brand                   |
+|-----:|----------------------------------------|--------------------------|
+|     1| Poetry of Night                        | Simone Andreoli         |
+|     2| The One                                | Dolce & Gabbana         |
+|     3| Absolutely Dark                        | Zara                    |
+|     4| Angir                                  | Boris Bidjan Saberi     |
+|     5| Light Blue                             | Dolce & Gabbana         |
+|     6| CK Shock                               | Calvin Klein            |
+
+</details>
+
 
 <details>
 <summary>🎧 DAWs I Use</summary>
