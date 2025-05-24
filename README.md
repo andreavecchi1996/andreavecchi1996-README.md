@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm a data enthusiast who enjoys working with data to extract insights, create visualisations, and support decision-making processes. I'm also passionate about music, movement, and creativity.
+I'm a data enthusiast who enjoys working with data to extract insights, create visualisations, and support decision-making processes. I'm also passionate about music, Sport, and creativity.
 
 <details>
 <summary>🛠 Tools I Use in Data Work</summary>
